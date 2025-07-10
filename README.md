@@ -5,7 +5,7 @@
 
 ## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px">
 
-<samp>Sou Vitor Cunha, estudante de Engenharia de Software (atualmente no 2º período) e desenvolvedor apaixonado por tecnologia e soluções escaláveis. Ao longo da minha jornada, venho me especializando na linguagem Java, com foco em construção de aplicações robustas e eficientes.
+<samp>Sou Vitor Cunha, estudante de Engenharia de Software (atualmente no 2º período) e desenvolvedor apaixonado por tecnologia e soluções escaláveis. Ao longo da minha jornada, venho me especializando na linguagem Java, possuo 2 anos de experiência em projetos práticos, com foco em construção de aplicações robustas e eficientes.
 
 Tenho experiência e conhecimento em tecnologias modernas como:
 
