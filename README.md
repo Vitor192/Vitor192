@@ -9,6 +9,8 @@
 
 Tenho experiência e conhecimento em tecnologias modernas como:
 
+☕ Spring Boot – para desenvolvimento ágil de aplicações Java robustas e escaláveis
+
 📦 JSON – para integração e manipulação de dados em APIs e microserviços
 
 🐳 Docker – para conteinerização e padronização de ambientes
