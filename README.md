@@ -5,20 +5,14 @@
 
 ## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px">
 
-<samp>Sou Vitor Cunha, estudante de Engenharia de Software (atualmente no 2º período) e desenvolvedor apaixonado por tecnologia e soluções escaláveis. Ao longo da minha jornada, venho me especializando na linguagem Java, possuo 2 anos de experiência em projetos práticos, com foco em construção de aplicações robustas e eficientes.
+<samp>💻 Apaixonado por transformar ideias em soluções reais, encontrei no desenvolvimento de software não apenas uma profissão, mas um propósito. Fora do código, sou entusiasta de musculação e Fórmula 1 — paixões que me ensinaram disciplina, foco e busca constante por performance.
 
-Tenho experiência e conhecimento em tecnologias modernas como:
+🚶‍♂️Minha jornada começou em outubro de 2023, quando dei os primeiros passos com HTML, CSS, SASS e JavaScript. Nessa fase, desenvolvi projetos como o Bikrefit e um site de Barbearia Online, experiências que despertaram minha criatividade e visão de produto.
+Logo depois, tive a oportunidade de mergulhar no universo Java — e foi amor à primeira linha de código. Desde então, essa linguagem se tornou minha principal ferramenta de carreira, somando quase 2 anos de experiência.
 
-☕ Spring Boot – para desenvolvimento ágil de aplicações Java robustas e escaláveis
+☕Ao longo dessa trajetória, trabalhei com Java (8 a 21), Spring Boot, APIs REST, autenticação JWT/OAuth2, microsserviços, Docker, CI/CD e testes automatizados. Cada projeto reforçou meu compromisso com código limpo, arquitetura sólida e soluções escaláveis.
 
-📦 JSON – para integração e manipulação de dados em APIs e microserviços
-
-🐳 Docker – para conteinerização e padronização de ambientes
-
-☁️ AWS – com foco em deploy e serviços de nuvem escaláveis
-
-🔗 Microserviços – arquitetura que permite modularidade, agilidade e manutenção facilitada
-
+💻Em janeiro de 2025, iniciei minha graduação em Engenharia de Software, determinado a continuar evoluindo e a alcançar minha meta: tornar-me um dos maiores engenheiros de software do Brasil. 🚀
 
 
 - 📖 Adoro ler e estudar sobre tecnologia, desenvolvimento pessoal e carreira
