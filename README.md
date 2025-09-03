@@ -3,6 +3,7 @@
 💻 **Engenheiro de Software** apaixonado por tecnologia, aprendizado constante e soluções eficientes.  
 🚀 Atualmente trabalhando com **Java**, **Spring Boot**, **Microservices** e explorando boas práticas de arquitetura.  
 📚 Também tenho experiência com **JavaScript, HTML, CSS, SASS** e desenvolvimento front-end.  
+😊 Mais sobre min(https://github.com/Vitor192/Sobre-Min)
 
 ---
 
