@@ -20,13 +20,9 @@
 
 ### 📌 Projetos em Destaque  
 - 🏆 [**Campeonato Brasileiro - Pontos Corridos**](https://github.com/Vitor192/Campeonato-Brasileiro-Digital) – Sistema para simulação de campeonato de futebol com Java e Spring Boot.  
-- 🎯 [**Sistema de Atendimento ao Cliente - Helpdesk**](https://github.com/Vitor192/Sistema-de-Atendimento-ao-Cliente-Helpdesk-) – Plataforma de atendimento ao cliente, com abertura e gerenciamento de chamados.  
-
----
-
-### 📊 Minhas Estatísticas no GitHub  
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor192&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor192&layout=compact&theme=tokyonight)  
+- 🎯 [**Sistema de Atendimento ao Cliente - Helpdesk**](https://github.com/Vitor192/Sistema-de-Atendimento-ao-Cliente-Helpdesk-) – Plataforma de atendimento ao cliente, com abertura e gerenciamento de chamados.
+- ☕ [**Sistema de Gerenciamento de Contas Bancárias**](https://github.com/Vitor192/Sistema-de-Gerenciamento-de-Contas-Banc-rias) - Sistema de Gerenciamento de Contas Bancárias Aplicação completa desenvolvida em Java + Spring Boot para gerenciamento de contas bancárias. Inclui autenticação segura com JWT e 2FA , operações bancárias (depósitos, saques, transferências), extrato detalhado, painel financeiro e interface web responsiva com Bootstrap 5 .
+- 💻 [**Product-Catalog**](https://github.com/Vitor192/Product-Catalog) - Microsserviço em Java 17 com Spring Boot e Spring Cloud para gerenciamento de produtos. Utiliza PostgreSQL para armazenamento de dados e expõe endpoints REST para cadastro, atualização, listagem e exclusão de produtos.
 
 ---
 
